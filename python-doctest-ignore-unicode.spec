@@ -7,7 +7,7 @@ Summary:	Add flag to ignore unicode literal prefixes in doctests
 Summary(pl.UTF-8):	Flaga do ignorowania prefiksów stałych unikodowych w doctestach
 Name:		python-doctest-ignore-unicode
 Version:	0.1.2
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/doctest-ignore-unicode/
